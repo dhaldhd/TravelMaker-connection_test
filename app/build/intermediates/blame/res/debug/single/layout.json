@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\myworkspace\\TravelMaker-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_camera.xml",
+        "source": "C:\\myworkspace\\TravelMaker-master\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "C:\\myworkspace\\TravelMaker-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_arduino_controller.xml",
+        "source": "C:\\myworkspace\\TravelMaker-master\\app\\src\\main\\res\\layout\\activity_arduino_controller.xml"
+    },
+    {
+        "merged": "C:\\myworkspace\\TravelMaker-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\blank.xml",
+        "source": "C:\\myworkspace\\TravelMaker-master\\app\\src\\main\\res\\layout\\blank.xml"
+    }
+]

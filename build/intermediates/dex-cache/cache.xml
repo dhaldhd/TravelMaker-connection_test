@@ -1,3 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\myworkspace\TravelMaker-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\myworkspace\TravelMaker-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_32c1a03be7edd3e607a052876aded203df5b810d\classes.dex" />
+    </item>
+    <item
+        jar="C:\myworkspace\TravelMaker-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bb606794b22eebd2a579b0796c50433c13ba9b3d">
+        <dex dex="C:\myworkspace\TravelMaker-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e111f26ee9435ad09a1081d8ab6110f3a126749a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yjin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\myworkspace\TravelMaker-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_074a51237cc1ecaf9e21da3ba1be95154e0dc8ce\classes.dex" />
+    </item>
+    <item
+        jar="C:\myworkspace\TravelMaker-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\myworkspace\TravelMaker-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_09dbee8f34b7f7f700f79fcb70acb3f276a91e6d\classes.dex" />
+    </item>
+    <item
+        jar="C:\myworkspace\TravelMaker-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c59b9f5dc4677602eeef180d00ca8489f7c8bdb9">
+        <dex dex="C:\myworkspace\TravelMaker-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_856fd9a543db8c304a9abcc7f9e18325d5db945c\classes.dex" />
+    </item>
+
+</items>

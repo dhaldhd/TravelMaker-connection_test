@@ -35,7 +35,7 @@ public class ArduinoControllerActivity extends Activity implements View.OnClickL
 	private Button mButton3;
 	private Button mButton4;
 
-
+	private int tmp;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
